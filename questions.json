@@ -1,0 +1,282 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which contraction is correct for 'they are'?",
+        "options": [
+            "The’ir",
+            "There",
+            "They're",
+            "Theyr’e"
+        ],
+        "correct": 2,
+        "explanation": "'They're' is the correct contraction for 'they are,' combining the pronoun 'they' with the verb 'are.'"
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "What is the contraction for 'would not'?",
+        "options": [
+            "Wouldn't",
+            "Won't",
+            "Willn't",
+            "Wouldnt"
+        ],
+        "correct": 0,
+        "explanation": "'Wouldn't' is the correct contraction for 'would not,' combining 'would' with 'not.'"
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "'It's' can mean both 'it is' and 'it has.'",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'It's' is a contraction for both 'it is' and 'it has,' depending on the context."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "'Should've' is a correct contraction for 'should have.' ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'Should've' is the correct contraction for 'should have.'"
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which of these is not a correct contraction?",
+        "options": [
+            "I'm",
+            "You're",
+            "We'ren't",
+            "They've"
+        ],
+        "correct": 2,
+        "explanation": "'We'ren't' is not a standard contraction in English. The correct form would be 'we aren't.'"
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "'Your' is a contraction of 'you are.' ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "'Your' is a possessive pronoun, not a contraction. The contraction for 'you are' is 'you're.'"
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Which contraction is formed from 'she will'?",
+        "options": [
+            "She'll",
+            "She'd",
+            "She's",
+            "Shew'll"
+        ],
+        "correct": 0,
+        "explanation": "'She'll' is the correct contraction for 'she will.'"
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "The contraction for 'we are' is _______.",
+        "options": [
+            "we’re",
+            "wer’e"
+        ],
+        "correct": 0,
+        "explanation": "'We're' is the standard contraction for 'we are.'"
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Which contraction is formed from 'could not'?",
+        "options": [
+            "Couldn't",
+            "Could'nt",
+            "Couldnt",
+            "Coudn't"
+        ],
+        "correct": 0,
+        "explanation": "'Couldn't' is the correct contraction for 'could not.'"
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "What does 'we've' stand for?",
+        "options": [
+            "We have",
+            "We are",
+            "We will",
+            "We had"
+        ],
+        "correct": 0,
+        "explanation": "'We've' is the contraction for 'we have.'"
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "'I _______ (have not) seen that movie yet.'",
+        "options": [
+            "haven’t",
+            "have’nt"
+        ],
+        "correct": 0,
+        "explanation": "'Haven't' is the correct contraction for 'have not.'"
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which of these is not a correct contraction?",
+        "options": [
+            "Doesn't",
+            "Don't",
+            "Aren't",
+            "Amn't"
+        ],
+        "correct": 3,
+        "explanation": "'Amn't' is not a standard contraction in English. The phrase 'am not' typically doesn't have a contraction."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "What is the contraction for 'they will'?",
+        "options": [
+            "They're",
+            "They'll",
+            "They'd",
+            "They've"
+        ],
+        "correct": 1,
+        "explanation": "'They'll' is the correct contraction for 'they will.'"
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "'She _______ (would have) come if she had known.'",
+        "options": [
+            "wouldv’e",
+            "would’ve"
+        ],
+        "correct": 1,
+        "explanation": "'Would've' is the correct contraction for 'would have.'"
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which contraction means 'who is' or 'who has'?",
+        "options": [
+            "Who's",
+            "Whom's",
+            "Who've",
+            "Who'd"
+        ],
+        "correct": 0,
+        "explanation": "'Who's' can stand for both 'who is' and 'who has.'"
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "'Let's' is a contraction of '_______ ______.'",
+        "options": [
+            "let us",
+            "lets us"
+        ],
+        "correct": 0,
+        "explanation": "'Let's' is the contraction for 'let us.'"
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "'I'm' is the only contraction for a subject pronoun + 'am.' ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'I'm' is the only standard contraction for a subject pronoun + 'am' in English."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "'_______ (It is) raining outside.'",
+        "options": [
+            "Its",
+            "It’s"
+        ],
+        "correct": 1,
+        "explanation": "'It's' is the correct contraction for 'it is.'"
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which of these is a correct contraction?",
+        "options": [
+            "Why're",
+            "When're",
+            "How're",
+            "All of the above"
+        ],
+        "correct": 3,
+        "explanation": "All of these are correct contractions for 'why are,' 'when are,' and 'how are' respectively, although they're more common in speech than in writing."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "What is the contraction for 'he would'?",
+        "options": [
+            "He'd",
+            "He'll",
+            "He's",
+            "Hed"
+        ],
+        "correct": 0,
+        "explanation": "'He'd' is the correct contraction for 'he would' (and also for 'he had')."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "What is the correct contraction for 'we are not'?",
+        "options": [
+            "We'ren't",
+            "We're not",
+            "We aren't",
+            "Wearen't"
+        ],
+        "correct": 2,
+        "explanation": "'We aren't' is the standard contraction for 'we are not.'"
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Which contraction represents 'she is' and 'she has'?",
+        "options": [
+            "She'll",
+            "She'd",
+            "She's",
+            "Shes"
+        ],
+        "correct": 2,
+        "explanation": "'She's' can stand for both 'she is' and 'she has,' depending on the context."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "What does the contraction 'it's' represent?",
+        "options": [
+            "It is",
+            "It has",
+            "It was",
+            "Both a and b"
+        ],
+        "correct": 3,
+        "explanation": "'It's' can represent both 'it is' and 'it has,' depending on the context."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Which contraction is formed from 'they have'?",
+        "options": [
+            "They're",
+            "They've",
+            "They'd",
+            "Theyve"
+        ],
+        "correct": 1,
+        "explanation": "'They've' is the correct contraction for 'they have.'"
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "'Wouldn't' is a contraction of 'would not.'",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'They've' is the correct contraction for 'they have.'"
+    }
+]
